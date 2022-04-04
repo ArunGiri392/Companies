@@ -19,19 +19,25 @@
 
 [
     {"title":"hamburger",
-      "description": "My name is hamburger"
+      "description": "My name is hamburger",
+      "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg"
     },
 
     {"title":"pizza",
-        "description": "My name is p"
+     "description": "My name is p",
+     "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg"
+
+
       },
 
       {"title":"fries",
-        "description": "My name is f"
+        "description": "My name is f",
+        "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg"
       }, 
       
       {"title":"chickenburger",
-        "description": "My name is chickenburger"
+        "description": "My name is chickenburger",
+        "image": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg"
       }
 
 ]
