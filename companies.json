@@ -1,17 +1,37 @@
-[{
-    "username": "john",
-    "firstName": "John",
-    "lastName": "Doe",
-    "gender": "Male",
-    "profileURL": "img/male.png",
-    "email": "john.doe@example.com"
-},
-{
-    "username": "jane",
-    "firstName": "Jane",
-    "lastName": "Doe",
-    "gender": "Female",
-    "profileURL": "img/female.png",
-    "email": "jane.doe@example.com"
-}
+// [{
+//     "username": "john",
+//     "firstName": "John",
+//     "lastName": "Doe",
+//     "gender": "Male",
+//     "profileURL": "img/male.png",
+//     "email": "john.doe@example.com"
+    
+// },
+// {
+//     "username": "jane",
+//     "firstName": "Jane",
+//     "lastName": "Doe",
+//     "gender": "Female",
+//     "profileURL": "img/female.png",
+//     "email": "jane.doe@example.com"
+// }
+// ]
+
+[
+    {"title":"hamburger",
+      "description": "My name is hamburger"
+    },
+
+    {"title":"pizza",
+        "description": "My name is p"
+      },
+
+      {"title":"fries",
+        "description": "My name is f"
+      }, 
+      
+      {"title":"chickenburger",
+        "description": "My name is chickenburger"
+      }
+
 ]
